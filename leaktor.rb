@@ -1,8 +1,8 @@
 class Leaktor < Formula
   desc "Secrets scanner with pattern matching, entropy analysis, and live validation"
   homepage "https://github.com/reschjonas/leaktor"
-  url "https://github.com/reschjonas/leaktor/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "365b2e20de6702f0b31ef042105fa50c1f96cbbbb48cd72870420a8e3e61bb35"
+  url "https://github.com/reschjonas/leaktor/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "d200241edba97f1fca6d56a00994c0f88ded7498367e72b32490daff8e080972"
   license "MIT"
   head "https://github.com/reschjonas/leaktor.git", branch: "master"
 
